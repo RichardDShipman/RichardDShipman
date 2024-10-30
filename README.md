@@ -21,11 +21,9 @@ Here is a list of past projects I have worked on, with links to related GitHub r
 
 1.	Glycoproteomics Knowledge Database Development 
 - Developed a Neo4j graph database for glycomics, integrating public and proprietary multi-omics data to enhance biomarker discovery for various disease indications.
-2.	Data Visualization Tools
-- Customized R Shiny and Neodash dashboards for improved visualization of glycoprotein data, facilitating accessibility and insights for data scientists.
-3.	Glycoproteomics Mass Spectrometry Deep Learning Pipeline (https://github.com/Vennbiosciences/D-Va-GlycoML)
+2.	Glycoproteomics Mass Spectrometry Deep Learning Pipeline (https://github.com/Vennbiosciences/D-Va-GlycoML)
 - Optimized a Python-based machine learning pipeline for glycoproteomics mass spectrometry, improving the accuracy of N-glycopeptide identification using deep learning models to analyze fragmentation patterns.
-7.	N-Linked Glycoform Categorization (10.1016/j.mcpro.2021.100081)
+3.	N-Linked Glycoform Categorization (10.1016/j.mcpro.2021.100081)
 - Developed R scripts for categorizing glycoforms based on mass spectrometry data, contributing to the analysis of glycosylation patterns in diseases.
   
 # Technical Skills
