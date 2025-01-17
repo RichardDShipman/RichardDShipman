@@ -15,7 +15,7 @@ Here is a list of recent projects I have been toying with on my free time.
 2. Glycoproteomics Graph Tool (https://github.com/RichardDShipman/GlycoproteomicsGraphTool_release)
 - Neo4j based graph knowledge base for storing glycoproteomics records in context to the central dogma of molecular biology.
 3. N-Glycopeptide Finder (https://github.com/RichardDShipman/N_Glycopeptide_Sequence_Finder)
-- A script for N-linked glycopetide prediction from proteome FASTA file input based on N-sequon.
+- A script for (protease-digested) N-linked glycopetide hunting in proteome FASTA file input based on N-sequon.
 
 # Past Projects
 
