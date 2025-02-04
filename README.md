@@ -14,8 +14,8 @@ Here is a list of recent projects I have been toying with on my free time.
 - A script to generate proteoforms by reading glycopeptide data from a CSV file, with limits on the number of proteoforms, saving results in both CSV and text file formats for each protein.
 2. Glycoproteomics Graph Tool (https://github.com/RichardDShipman/Glycoproteomics_Graph_Tool)
 - Neo4j based graph knowledge base for storing glycoproteomics records in context to the central dogma of molecular biology.
-3. N-Glycopeptide Sequence Finder (https://github.com/RichardDShipman/Glycopeptide_Sequence_Finder)
-- A script for hunting (protease-digested) N-linked glycopeptides in protein/proteome FASTA files based on N-sequon. It includes a library of digested glycopeptides from various model organisms and common livestock.
+3. Glycopeptide Sequence Finder (https://github.com/RichardDShipman/Glycopeptide_Sequence_Finder)
+- A script for hunting (protease-digested) N/O/C-linked glycopeptides in protein/proteome FASTA files based on sequon (motif). It includes a library of digested glycopeptides from various model organisms and common livestock.
 
 # Past Projects
 
