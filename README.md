@@ -10,12 +10,12 @@ I am a bioinformatician with a background in applied science, with a concentrati
 
 Here is a list of recent projects I have been toying with on my free time.
 
-1. Glycopeptide Proteoform Generator [Link](https://github.com/RichardDShipman/Glycopeptide_Proteoform_Generator)
-- A script to generate proteoforms by reading glycopeptide data from a CSV file, with limits on the number of proteoforms, saving results in both CSV and text file formats for each protein.
-2. Glycoproteomics Graph Tool [Link](https://github.com/RichardDShipman/Glycoproteomics_Graph_Tool)
-- Neo4j based graph knowledge base for storing glycoproteomics records in context to the central dogma of molecular biology.
-3. Glycopeptide Sequence Finder [Link](https://github.com/RichardDShipman/Glycopeptide_Sequence_Finder)
-- A script for hunting (protease-digested) N/O/C-linked glycopeptides in protein/proteome FASTA files based on sequon (motif). It includes a library of digested glycopeptides from various model organisms, common livestock & crops, sea critters and a host of fungus & viral pathogens.
+1. Glycopeptide Proteoform Generator 
+- A script to generate proteoforms by reading glycopeptide data from a CSV file, with limits on the number of proteoforms, saving results in both CSV and text file formats for each protein. [Link](https://github.com/RichardDShipman/Glycopeptide_Proteoform_Generator)
+2. Glycoproteomics Graph Tool 
+- Neo4j based graph knowledge base for storing glycoproteomics records in context to the central dogma of molecular biology. [Link](https://github.com/RichardDShipman/Glycoproteomics_Graph_Tool)
+3. Glycopeptide Sequence Finder 
+- A script for hunting (protease-digested) N/O/C-linked glycopeptides in protein/proteome FASTA files based on sequon (motif). It includes a library of digested glycopeptides from various model organisms, common livestock & crops, sea critters and a host of fungus & viral pathogens. [Link](https://github.com/RichardDShipman/Glycopeptide_Sequence_Finder)
 
 # Past Projects
 
@@ -23,10 +23,10 @@ Here is a list of past projects I have worked on, with links to related GitHub r
 
 1.	Glycoproteomics Knowledge Database Development 
 - Developed a Neo4j graph database for glycomics, integrating public multi-omics data.
-2.	Glycoproteomics Mass Spectrometry Deep Learning Pipeline [Link](https://github.com/Vennbiosciences/D-Va-GlycoML)
-- Optimized a Python-based machine learning pipeline for glycoproteomics mass spectrometry, improving the accuracy of N-glycopeptide identification using deep learning models to analyze fragmentation patterns.
-3.	N-Linked Glycoform Categorization [Link](10.1016/j.mcpro.2021.100081)
-- Developed R scripts for categorizing glycoforms based on mass spectrometry data, contributing to the analysis of glycosylation patterns in diseases.
+2.	Glycoproteomics Mass Spectrometry Deep Learning Pipeline 
+- Optimized a Python-based machine learning pipeline for glycoproteomics mass spectrometry, improving the accuracy of N-glycopeptide identification using deep learning models to analyze fragmentation patterns. [Link](https://github.com/Vennbiosciences/D-Va-GlycoML)
+3.	N-Linked Glycoform Categorization 
+- Developed R scripts for categorizing glycoforms based on mass spectrometry data, contributing to the analysis of glycosylation patterns in diseases. [Link](10.1016/j.mcpro.2021.100081)
   
 # Technical Skills
 
