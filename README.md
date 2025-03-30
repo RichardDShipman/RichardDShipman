@@ -6,6 +6,16 @@
 
 I am a bioinformatician with a background in applied science, with a concentration in biochemistry and molecular biology. Throughout my life, I’ve been tinkering with computers, which naturally led me to support the projects I pursue. Past experiences involved developing computational proteomics tools that enable the discovery and application of novel phosphopeptides and glycopeptides with desired properties.  I am currently enrolled as a Master student in Omics Data Analysis at the University of Vic - Central University of Catalonia (UVic-UCC). I enjoy exploring the intersection of different omics fields with the aid of computational tools. For my Final Master's Project, I am researching at the University of Valencia on the glycovirology of rotaviruses. The projects listed below highlight some of those adventures.
 
+# Machine Learning and AI
+
+Over the years, I’ve been experimenting with various machine learning and AI methods to tackle research problems and enhance my coding skills. This includes delving into the processes of software development in scientific research. Many of the tools I’ve utilized, particularly ChatGPT and its related tools, have been instrumental in generating code and solutions to my challenges. However, these tools often lead to incorrect processes and require significant adjustments to achieve functionality. Consequently, I’ve spent considerable time debugging and refining their code. Despite these efforts, some bugs persist, and there are instances of odd coding practices.
+
+One notable observation is the substantial improvement in AI coding tools since their release over the past few years. I intend to leverage these tools and integrate them further into my projects. One of the tools I’ve begun with is a RAG (retrieval augmented generation) system using Chroma DB as a vector database to store content from glycobiology papers. This approach has significantly enhanced the performance of the system when answering questions related to glycobiology and proteomics.
+
+One of my initial projects involved the use of local LLMs with Ollama, as linked below. I’m committed to exploring and developing local LLMs that process or generate data based on user inputs. In the future, I plan to release a tool that can translate CSV documents from one language to another. These experiments aim to improve accessibility of scientific data to our language-speaking community, thereby removing barriers in science that stem from language barriers.
+
+- TEXT_RAG [Link](https://github.com/RichardDShipman/TEXT_RAG) - A RAG that constructs a ChomaDB vector database for LLM querying of PDFs, HTMLs, and TXT files.
+
 # Recent Projects
 
 Here is a list of recent projects I have been toying with on my free time.
