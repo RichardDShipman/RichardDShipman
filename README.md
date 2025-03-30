@@ -6,7 +6,7 @@
 
 I am a bioinformatician with a background in applied science, with a concentration in biochemistry and molecular biology. Throughout my life, I’ve been tinkering with computers, which naturally led me to support the projects I pursue. Past experiences involved developing computational proteomics tools that enable the discovery and application of novel phosphopeptides and glycopeptides with desired properties.  I am currently enrolled as a Master student in Omics Data Analysis at the University of Vic - Central University of Catalonia (UVic-UCC). I enjoy exploring the intersection of different omics fields with the aid of computational tools. For my Final Master's Project, I am researching at the University of Valencia on the glycovirology of rotaviruses. The projects listed below highlight some of those adventures.
 
-# Machine Learning and AI
+# Machine Learning and AI in Glycobiology and Proteomics Computional Research
 
 Over the years, I’ve been experimenting with various machine learning and AI methods to tackle research problems and enhance my coding skills. This includes delving into the processes of software development in scientific research. Many of the tools I’ve utilized, particularly ChatGPT and its related tools, have been instrumental in generating code and solutions to my challenges. However, these tools often lead to incorrect processes and require significant adjustments to achieve functionality. Consequently, I’ve spent considerable time debugging and refining their code. Despite these efforts, some bugs persist, and there are instances of odd coding practices.
 
