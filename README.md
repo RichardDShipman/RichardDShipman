@@ -29,6 +29,8 @@ Deep learning, an intriguing topic to explore and apply, heavily relies on input
 
 - TEXT_RAG [Link](https://github.com/RichardDShipman/TEXT_RAG) - A RAG that constructs a ChomaDB vector database for LLM querying of PDFs, HTMLs, and TXT files.
 
+- csv_column_text_translator [Link](https://github.com/RichardDShipman/csv_column_text_translator) - Use LLMs to translate csv text column data to language of choice.
+
 ## Past Projects
 
 Here is a list of past projects I have worked on, with links to related GitHub repositories if they are available. 
