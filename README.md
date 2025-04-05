@@ -27,6 +27,10 @@ One of my initial projects involved the use of local LLMs with Ollama, as linked
 
 Deep learning, an intriguing topic to explore and apply, heavily relies on input data, posing a significant challenge due to the sheer complexity of biology and chemistry in the real world. Much biochemical research generates data focused on humans, mice, or other commonly used model organisms, hindering the application of deep learning tools across the tree of life and uncovering new biochemical functions beyond human or standard model organism use. This prompted me to explore other species and lesser-annotated species to determine how these tools can be more effectively applied to all the creatures on Earth. As with all AI topics, the field is rapidly advancing at an unprecedented pace, so I am confident that as their methods expand, we will witness improved applications in this area.
 
+### LLMOps Projects
+
+Couple of the starters projects I am working on for LLM agent use in computational biology research.
+
 - TEXT_RAG [Link](https://github.com/RichardDShipman/TEXT_RAG) - A RAG that constructs a ChomaDB vector database for LLM querying of PDFs, HTMLs, and TXT files.
 
 - csv_column_text_translator [Link](https://github.com/RichardDShipman/csv_column_text_translator) - Use LLMs to translate csv text column data to language of choice.
