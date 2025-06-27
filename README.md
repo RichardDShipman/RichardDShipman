@@ -16,6 +16,8 @@ Here is a list of recent projects I have been toying with on my free time.
 - Neo4j based graph knowledge base for storing glycoproteomics records in context to the central dogma of molecular biology. [Glycoproteomics_Graph_Tool](https://github.com/RichardDShipman/Glycoproteomics_Graph_Tool)
 3.  Glycopeptide Proteoform Generator 
 - A script to generate proteoforms by reading glycopeptide data from a CSV file, with limits on the number of proteoforms, saving results in both CSV and text file formats for each protein. [Glycopeptide_Proteoform_Generator](https://github.com/RichardDShipman/Glycopeptide_Proteoform_Generator)
+4. Cross Species Pathway Analysis Pipeline
+  - The Cross-Species Pathway Analysis Pipeline is an automated workflow designed to compare enzymatic pathways, such as the N-linked glycosylation pathway, across of species by integrating NCBI Datasets, BLAST+, and standard bioinformatics tools. [cross_species_pathway_analysis_pipeline](https://github.com/RichardDShipman/cross_species_pathway_analysis_pipeline)
 
 ## Machine Learning, Deep Learning and AI in Glycobiology and Proteomics Computional Research
 
