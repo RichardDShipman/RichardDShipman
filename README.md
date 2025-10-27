@@ -28,7 +28,7 @@ Here is a list of past projects I have worked on, with links to related GitHub r
 2.	Glycoproteomics Mass Spectrometry Deep Learning Pipeline 
 - Optimized a Python-based machine learning pipeline for glycoproteomics mass spectrometry, improving the accuracy of N-glycopeptide identification using deep learning models to analyze fragmentation patterns. [Link](https://github.com/Vennbiosciences/D-Va-GlycoML)
 3.	N-Linked Glycoform Categorization 
-- Developed R scripts for categorizing glycoforms based on mass spectrometry data, contributing to the analysis of glycosylation patterns in diseases. [Link](10.1016/j.mcpro.2021.100081)
+- Developed R scripts for categorizing glycoforms based on mass spectrometry data, contributing to the analysis of glycosylation patterns in diseases. [Link](https://pubmed.ncbi.nlm.nih.gov/33862227/)
 4. O-Linked Glycoproteomics of Alzhiemer's Disease Progression
 - Monitored changes in the O-glycoproteome in the CSF of patients with progressing stages of AD. [LINK](https://pubmed.ncbi.nlm.nih.gov/34964596/)
 
