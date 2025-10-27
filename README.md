@@ -4,14 +4,14 @@
 **RichardDShipman/RichardDShipman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am a bioinformatician with a background in applied science, with a concentration in biochemistry and molecular biology. Throughout my life, I’ve been tinkering with computers and the outdoors, which naturally led me to support the projects I pursue. Past experiences involved developing computational proteomics tools that enable the discovery and application of novel phosphopeptides and glycopeptides with desired properties.  I recently finished a Master's degree in Omics Data Analysis at the University of Vic - Central University of Catalonia (UVic-UCC). I enjoy exploring the intersection of different omics fields with the aid of computational tools. As for recent projects, I am researching at the University of Valencia on the glycovirology of rotaviruses. The projects listed below highlight some of those adventures.
+I am a bioinformatics consultant specializing in glycobiology with a background in applied science - concentration in biochemistry and molecular biology. Throughout my life, I’ve been tinkering with computers and the outdoors, which naturally led me to support the projects I pursue. Past experiences involved developing computational glyco / proteomics tools that enable the discovery and application of novel phosphopeptides and glycopeptides with desired properties.  I have a Master's degree in Omics Data Analysis from the University of Vic - Central University of Catalonia (UVic-UCC). I enjoy exploring and dabbling in the intersection of different omics fields with the aid of computational tools. As for recent projects, I am researching at the University of Valencia on the glycovirology of rotaviruses. The projects listed below highlight some of those adventures.
 
-## Recent Projects
+## Recent and Ongoing Projects
 
 Here is a list of recent projects I have been toying with on my free time.
 
 1. Glycopeptide Sequence Finder 
-- A script for hunting (protease-digested) N/O/C-linked glycopeptides in protein/proteome FASTA files based on sequon (motif). It includes a library of digested glycopeptides from various model organisms, common livestock & crops, sea critters and a host of fungus & viral pathogens. [Glycopeptide_Sequence_Finder](https://github.com/RichardDShipman/Glycopeptide_Sequence_Finder)
+- A script for hunting (protease-digested) N/O/C-linked glycopeptides in protein/proteome FASTA files based on sequon (motif). It includes a zoo library of digested glycopeptides from various model organisms, common livestock & crops, sea critters and a host of fungus & viral pathogens. [Glycopeptide_Sequence_Finder](https://github.com/RichardDShipman/Glycopeptide_Sequence_Finder)
 2. Glycoproteomics Graph Tool 
 - Neo4j based graph knowledge base for storing glycoproteomics records in context to the central dogma of molecular biology. [Glycoproteomics_Graph_Tool](https://github.com/RichardDShipman/Glycoproteomics_Graph_Tool)
 3.  Glycopeptide Proteoform Generator 
@@ -22,15 +22,18 @@ Here is a list of recent projects I have been toying with on my free time.
 ## Past Projects
 
 Here is a list of past projects I have worked on, with links to related GitHub repositories if they are available. 
-
-1.	Glycoproteomics Knowledge Database Development 
+1. Glycopeptide Data Analysis (Final Master Project - UVic)
+- Comprehensive analysis of viral glycopeptides, including in-silico sequence prediction, conservation visualization via MSA, and experimental mass spectrometry data analysis. [Link](https://github.com/RichardDShipman/FMP_thesis_UVIC)
+2.	Glycoproteomics Knowledge Database Development 
 - Developed a Neo4j graph database for glycomics, integrating public multi-omics data.
-2.	Glycoproteomics Mass Spectrometry Deep Learning Pipeline 
+3.	Glycoproteomics Mass Spectrometry Deep Learning Pipeline 
 - Optimized a Python-based machine learning pipeline for glycoproteomics mass spectrometry, improving the accuracy of N-glycopeptide identification using deep learning models to analyze fragmentation patterns. [Link](https://github.com/Vennbiosciences/D-Va-GlycoML)
-3.	N-Linked Glycoform Categorization 
-- Developed R scripts for categorizing glycoforms based on mass spectrometry data, contributing to the analysis of glycosylation patterns in diseases. [Link](https://pubmed.ncbi.nlm.nih.gov/33862227/)
-4. O-Linked Glycoproteomics of Alzhiemer's Disease Progression
+4. Dual-Ti-IMAC for Spike Protein Glycopeptide Analysis
+- Developed a dual-functional Ti-IMAC method to characterize SARS-CoV-2 Spike protein glycosylation, identifying O-linked and M6P glycoforms. [Link](https://link.springer.com/article/10.1007/s00216-021-03433-1)
+5. O-Linked Glycoproteomics of Alzhiemer's Disease Progression
 - Monitored changes in the O-glycoproteome in the CSF of patients with progressing stages of AD. [LINK](https://pubmed.ncbi.nlm.nih.gov/34964596/)
+6.	N-Linked Glycoform Categorization and Glycopeptide Data Analysis
+- Developed R scripts for categorizing glycoforms based on mass spectrometry data, contributing to the analysis of glycosylation patterns in diseases. [Link](https://pubmed.ncbi.nlm.nih.gov/33862227/)
 
 ## Technical Skills
 
