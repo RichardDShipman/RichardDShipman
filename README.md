@@ -71,7 +71,7 @@ Couple of the starters projects I am working on for LLM agent use in computation
       * Z. Chen, Q. Yu, Q. Yu, J. Johnson, **R. Shipman**, X. Zhong, J. Huang, S. Asthana, C. Carlsson, O. Okonkwo, L. Li
       * *Published: April 2021*
 
-4.  **[Activity of Phosvitin in Hydroxyapatite Acid-Damage Immersion and Antimicrobial Assays](https://www.google.com/search?q=https_link_to_your_publication_here)**
+4.  **[Activity of Phosvitin in Hydroxyapatite Acid-Damage Immersion and Antimicrobial Assays](https://pmc.ncbi.nlm.nih.gov/articles/PMC7605931/)**
 
       * **R. Shipman**, S. Doering, J. Hemsath, E.J. Lee, J. E. Grant
       * *Published: October 2020*
